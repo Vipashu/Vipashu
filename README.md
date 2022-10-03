@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **NodeJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://vipashulakhera.vercel.app](https://vipashulakhera.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vipashulakhera.vercel.app)
 
 - 📫 How to reach me **vipashusharma21@gmail.com**
+
+- 📄 [My Resume](https://drive.google.com/file/d/1I0N8cZbIHZxRdAUjIfx8qaouyQ88oEBO/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
